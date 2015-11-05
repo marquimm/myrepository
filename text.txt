@@ -1,5 +1,11 @@
 Este eh um novo arquivo
 
+Funcionalidade 2{
+Alert
+Alertando
+Alertado
+}
+
 Talvez seja util um dia
 
 Finalizando versão 1.1
