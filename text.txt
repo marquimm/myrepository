@@ -1,5 +1,13 @@
 Este eh um novo arquivo
 
+Adicionando função 1{
+Cadastrar funcionario
+Cadastrando
+Cadastrado
+}
+
+
+
 Talvez seja util um dia
 
 Vai ser util
